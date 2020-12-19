@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 20 - Localization
+      and Font Examples.unity
+    guid: 20b6cdd164c772842bf9044cf9e0a556
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 8 - Particle
+      Effects.unity
+    guid: 60e2d819396edfa42855400327c3f086
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 29 - Journal
+      Menu Example.unity
+    guid: a04634257c0740b4b84a8829fd3f18f2
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 9 - Other
+      Effects.unity
+    guid: c0f6b4f84fe9db24e91c54466948b8c3
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 5 - Rotation
+      Examples.unity
+    guid: e04ef311cca822e4ab24b07613186463
+  - enabled: 1
+    path: Assets/Standard Assets/Effects/TessellationShaders/Scenes/TessellationSample.unity
+    guid: 31f6763de0920574092c8a69a66c717e
+  - enabled: 1
+    path: Assets/SampleScenes/Scenes/Car.unity
+    guid: 41b8fdb98491fab48a0cd641d4c0e3b1
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 3 - Animation
+      Examples A.unity
+    guid: 51d2164969bb6564e95dac9f9e99a15a
+  - enabled: 1
+    path: Assets/SampleScenes/Scenes/CarAIWaypointBased.unity
+    guid: 81ce53b350e0a3247ae838c0d57967ab
+  - enabled: 1
+    path: Assets/SampleScenes/Scenes/Particles.unity
+    guid: 9148cc7972b0bc848b21aef88468f740
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 0 - Player
+      Controller Examples.unity
+    guid: a18f8181b0c00a6488d031b959e2bde0
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 14 A - Load
+      Scene Examples.unity
+    guid: b157ac6d5c0b3ed4f9f649894f0c71c8
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 13 B - Persistent
+      Objects Example.unity
+    guid: e1a09b374aafa844b88ab9e6c9bbeb3b
+  - enabled: 1
+    path: Assets/SampleScenes/Scenes/AircraftPropellerAI.unity
+    guid: e1ee66940de9023479566432a1a00132
+  - enabled: 1
+    path: Assets/SampleScenes/Scenes/CharacterFirstPerson.unity
+    guid: f2f18f678332b48458bb0e9c5ab081bf
+  - enabled: 1
+    path: Assets/Water/Scenes/WaterSampleScene.unity
+    guid: f228f0adc14e34a099e948d907875d8d
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 19 - Filter
+      Hero Objects Examples A.unity
+    guid: 237f933abfa9d8f4d9eaedb57a9c2153
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 22 - Dialog
+      Examples.unity
+    guid: 53e1d901bc2624843a31dedfdc4ffa72
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 2 - Audio
+      Examples.unity
+    guid: 24465ea24f7ffd84daa7501f68755b69
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Game - 3D Bat Attack/Scene1.unity
+    guid: 94a3809da6c1c7d419cde96757c3ef37
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 19 - Filter
+      Hero Objects by Field of View.unity
+    guid: 25e292e5aabf12d458fc128becf91690
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 21 - Script
+      Examples.unity
+    guid: f537633721aa63448801a207363bace6
+  - enabled: 1
+    path: Assets/SampleScenes/Scenes/AircraftJet2Axis.unity
+    guid: 1648d99da5b4a7c4582afcd4b5660f01
+  - enabled: 1
+    path: Assets/SampleScenes/Scenes/AircraftJetAI.unity
+    guid: 363861c29c39f0e4bb36d75975950302
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 2D Top Down/Scenes/1 - 2D
+      RPG Controller Example.unity
+    guid: 96edc668782b2d34986f64200ba41d36
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 6 - Turning
+      Examples.unity
+    guid: 96aef7f25fc33d248bd1a86b24d96c05
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 11 - Pooling
+      Objects Example.unity
+    guid: a681220893b045743bdbe6b0e4403d2c
+  - enabled: 1
+    path: Assets/SampleScenes/Scenes/2dCharacter.unity
+    guid: e64703861e6c7d748bab0c2dee48b08d
+  - enabled: 1
+    path: Assets/SampleScenes/Scenes/CharacterThirdPersonAI.unity
+    guid: 17382a6997de5bf4a9ca6c4830613498
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 7 - Pathfinding
+      Examples.unity
+    guid: 278a58686c0367846b3e5247f2f225a9
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 13 A - Persistent
+      Objects Example.unity
+    guid: e7ca8edc91f341246aef0fe59a5f9c8f
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 14 B - Load
+      Scene Examples.unity
+    guid: f7e0e56877d9e584b878c16fdf8a9cd3
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 17 - Get
+      Game Objects Examples.unity
+    guid: b897fc10fb7f34d4dad8685c7840981d
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 1 - Camera
+      Examples.unity
+    guid: f83164a831b6c374184e347ec92e824a
+  - enabled: 1
+    path: Assets/Lowpoly Environment/Free Rocks and Plants/Lowpoly Style Demo.unity
+    guid: f8a43b6fe8ed1ef4591a216dcfebb568
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 4 - Movement
+      Examples B.unity
+    guid: 19eb1cbb702ee4f48915d487ac719204
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 2D Platformer/Scenes/1 -
+      2D Platform Controller Example.unity
+    guid: 69575e6f2904c4c7dafafe28c5ec7068
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 3 - Animation
+      Examples B.unity
+    guid: 797a32f612057e94c948d88f96d3c2d6
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 18 - Get
+      Hero Objects Examples A.unity
+    guid: 99f21b5e22a7faf49900e691d1642300
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 15 - Property
+      Examples.unity
+    guid: 1ab375abd04af7842810cd2ed311358a
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 16 - Loops
+      and Statements Examples.unity
+    guid: 4a722580cd553a44f8b71f4f74715730
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 4 - Movement
+      Examples A.unity
+    guid: 5adc1f204ae1616459f8caca390172bc
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 15 - Variables
+      Examples.unity
+    guid: 8af09a4aae6f9114c8026c6b3eb33b93
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 18 - Get
+      Hero Objects Examples B.unity
+    guid: 0bea35dacac666b4795359e9ca97bc74
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 19 - Filter
+      Hero Objects Examples B.unity
+    guid: 2b132ff0741c73e44a13e685b34af3ae
+  - enabled: 1
+    path: Assets/SampleScenes/Scenes/AircraftPropeller4Axis.unity
+    guid: 5bda8cddff6467b49826e3ff2a374f49
+  - enabled: 1
+    path: Assets/LowPoly Animals/Simplistic Low Poly Nature/Simplistic Low Poly Nature
+      Demo Scene.unity
+    guid: 8b3ec97fe6794aa44b4ac3b4729b6561
+  - enabled: 1
+    path: Assets/SampleScenes/Scenes/CharacterThirdPerson.unity
+    guid: 0cb5d44a4c963f145acdb0a0c95d9d1b
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 27 - End
+      Game Example.unity
+    guid: 3cba9acd6e5e611459aa072d2bf77970
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 10 - Image
+      Examples.unity
+    guid: 7ee79680081608f46b0ced13686aface
+  - enabled: 1
+    path: Assets/SampleScenes/Scenes/RollerBall.unity
+    guid: 7eaa63fd5f544054c91b4364fe194584
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 28 - NPC
+      Interaction Example.unity
+    guid: 3f30650e51cabae41abc8f952724c203
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 12 - Spawn
+      Objects Example.unity
+    guid: 3fd99c7f6c3560249b4703c7c3a27183
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 25 - Options
+      Menu Example.unity
+    guid: 7feb84bf714363a48997a4ab08c82ec7
+  - enabled: 1
+    path: Assets/_All/Scenes/FirstGame.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 24 - Load
+      and Save Menu Example.unity
+    guid: af2acc833f581f04f8cc1f32da9e346f
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 23 - Inventory
+      Menu Example.unity
+    guid: ff60252617abfa24189121d0f8923b99
+  - enabled: 1
+    path: Assets/HeroKit/HeroKit Samples/Sample Scenes - 3D/Scenes/Scene 26 - Start
+      Menu Example.unity
+    guid: ff01193eff44e7c4c8c7020a015ac0d9
+  m_configObjects: {}
